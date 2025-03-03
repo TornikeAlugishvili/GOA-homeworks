@@ -1,7 +1,6 @@
 from turtle import *
 
 
-
 speed (5)           # we want to draw tower
 width (5)      
 color("green")
